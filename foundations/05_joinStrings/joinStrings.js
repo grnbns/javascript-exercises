@@ -8,7 +8,11 @@
 */
 
 // Add your code right below, good luck!
-
+let firstName = "Lero";
+let lastName = "Wang";
+let thisYear = 2026;
+let birthYear = 2006;
+let greeting = `My name is ${firstName} ${lastName} and I am ${thisYear - birthYear} years old.`;
 
 
 
